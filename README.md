@@ -1,4 +1,4 @@
-# 🧮 Projeto: Calculadora Completa em C#
+# 🧮 Projeto: Calculadora Completa em C# no cmd
 
 ## 📌 Descrição
 Este projeto consiste em uma **Calculadora completa desenvolvida em C#**, com operações matemáticas básicas e avançadas.  
@@ -38,3 +38,16 @@ Durante o desenvolvimento deste projeto, pude aprender e aplicar conceitos funda
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seuusuario/calculadora-csharp.git
+2. Abra o projeto no Visual Studio ou VS Code.
+
+3. Compile e execute a aplicação.
+
+4. Siga as instruções no console para realizar cálculos.
+
+🚀 Próximos Passos (Possíveis Melhorias)
+
+. Criar uma interface gráfica com Windows Forms ou WPF;
+
+. Adicionar histórico de cálculos;
+
+. Melhorar a experiência do usuário com validações e mensagens mais amigáveis.
